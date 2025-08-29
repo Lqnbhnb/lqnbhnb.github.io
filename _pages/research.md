@@ -4,8 +4,6 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
-
-
 ### 1. Metal–Organic Nanotubes (MONTs)
 - Synthesis and postsynthetic metal exchange  
 - Understanding solvent effects on ion diffusion  
