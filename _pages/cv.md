@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Curriculum Vitae
 
 - **Postdoctoral Researcher**, University of Tennessee, Knoxville (2025– )  
 - **Postdoctoral Researcher**, Los Alamos National Laboratory (2023–2025)  
