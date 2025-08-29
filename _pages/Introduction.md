@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# About Me
 
 Hello! I’m **Qiao (Joe) Liu**, a postdoctoral researcher in **materials chemistry**.  
 My work focuses on:
