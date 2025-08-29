@@ -4,8 +4,6 @@ permalink: /cv/
 layout: single
 author_profile: true
 ---
-
-
 - **Postdoctoral Researcher**, University of Tennessee, Knoxville (2025– )  
 - **Postdoctoral Researcher**, Los Alamos National Laboratory (2023–2025)  
 - **Ph.D. in Chemistry**, [Your University], [Year]
