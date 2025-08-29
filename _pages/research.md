@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Research Interests
 
 ### 1. Metal–Organic Nanotubes (MONTs)
 - Synthesis and postsynthetic metal exchange  
