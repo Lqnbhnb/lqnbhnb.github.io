@@ -1,36 +1,9 @@
----
-layout: splash
-title: "Qiao (Joe) Liu"
-permalink: /
-header:
-  overlay_image: /assets/images/hero.jpg   # add a wide banner image here
-  overlay_filter: 0.3
-  caption: "Photo credit: Unsplash"
-excerpt: "Materials Chemistry • MOFs & MONTs • Hydrogen Energy"
-intro: 
-  - excerpt: "Welcome! I’m a postdoctoral researcher working on **MOFs/MONTs**, **gas separation**, and **hydrogen energy systems**. This site hosts my [research](/research/), [publications](/publications/), and CV."
-feature_row:
-  - image_path: /assets/images/research.jpg
-    alt: "Research"
-    title: "Research"
-    excerpt: "Current work on metal–organic nanotubes, solvent effects, and fuel cell systems."
-    url: "/research/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/publications.jpg
-    alt: "Publications"
-    title: "Publications"
-    excerpt: "Peer-reviewed articles in MOFs, gas adsorption, and hydrogen energy."
-    url: "/publications/"
-    btn_label: "See Papers"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/cv.jpg
-    alt: "CV"
-    title: "Curriculum Vitae"
-    excerpt: "Academic background, professional experience, and research skills."
-    url: "/cv/"
-    btn_label: "View CV"
-    btn_class: "btn--primary"
----
-
-{% include feature_row %}
+main:
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/
