@@ -4,8 +4,6 @@ permalink: /introduction/
 layout: single
 author_profile: true
 ---
-
-
 Hello! I’m **Qiao (Joe) Liu**, a postdoctoral researcher in **materials chemistry**.  
 My work focuses on:
 
